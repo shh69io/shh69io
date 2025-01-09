@@ -1,17 +1,17 @@
 # Hi there, I'm Shreeram! 👋
 
-Welcome to my GitHub profile! I'm a passionate developer working on building useful tools and exploring new technologies.
+Welcome to my GitHub profile! I'm a developer contributing to Open Source Projects.
 
 ## About Me 🌱
 
-- 🎯 Focused on building efficient solutions and automating processes, like my [AutoFileSort project](link-to-project).
-- 🛠️ Experienced with Python, Git, and general software development practices.
+- 🎯 Focused on developing solutions to real world problems, by means of technology.
+- 🛠️ Experienced with Python, C#, Git, etc.
 - 💡 Always learning and improving by building small, practical projects.
 - 🌍 Based in Kochi, Kerala.
   
 ## My Projects 🚀
 
-Here are a couple of the projects I’m currently worked on:
+Here are a couple of the projects I've worked on:
 
 ### 1. [AutoFileSort](https://github.com/shh69io/AutoFileSort)
 A Python-based tool designed to automatically sort files based on customizable rules.
