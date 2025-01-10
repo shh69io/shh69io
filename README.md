@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a developer contributing to Open Source Projec
 - 🎯 Focused on developing solutions to real world problems, by means of technology.
 - 🛠️ Experienced with Python, C#, Git, etc.
 - 💡 Always learning and improving by building small, practical projects.
-- 🌍 Based in Kochi, Kerala.
+- 🌍 Based in Kochi, Kerala, India.
   
 ## My Projects 🚀
 
